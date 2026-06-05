@@ -17,8 +17,7 @@ This project focuses on analyzing Zepto's product inventory dataset using Postgr
 
 * Identified top products offering the highest discounts.
 * Analyzed high-value products that are currently out of stock.
-* Estimated category-wise revenue potential.<img width="320" height="180" alt="OIP" src="https://github.com/user-attachments/assets/a550c0c0-bfb2-4bbc-9b29-2d5b0b64491c" />
-
+* Estimated category-wise revenue potential.
 * Evaluated average discount percentages across categories.
 * Calculated price-per-gram metrics to determine product value.
 * Measured total inventory weight across product categories.
