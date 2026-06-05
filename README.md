@@ -1,3 +1,6 @@
+<img width="320" height="180" alt="OIP" src="https://github.com/user-attachments/assets/a550c0c0-bfb2-4bbc-9b29-2d5b0b64491c" />
+
+
 # Zepto Product & Inventory Analytics Using SQL
 
 This project focuses on analyzing Zepto's product inventory dataset using PostgreSQL. The objective was to clean, transform, and analyze product data to generate actionable business insights that support inventory management and pricing decisions.
@@ -14,7 +17,8 @@ This project focuses on analyzing Zepto's product inventory dataset using Postgr
 
 * Identified top products offering the highest discounts.
 * Analyzed high-value products that are currently out of stock.
-* Estimated category-wise revenue potential.
+* Estimated category-wise revenue potential.<img width="320" height="180" alt="OIP" src="https://github.com/user-attachments/assets/a550c0c0-bfb2-4bbc-9b29-2d5b0b64491c" />
+
 * Evaluated average discount percentages across categories.
 * Calculated price-per-gram metrics to determine product value.
 * Measured total inventory weight across product categories.
